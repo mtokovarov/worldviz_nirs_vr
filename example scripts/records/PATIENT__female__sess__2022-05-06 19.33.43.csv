@@ -1,0 +1,17 @@
+block;flanker_type;flanker_congruencity;distraction_congruencity;response_provided;trial_start_time;response_time;is_correct
+neutral_distractor;right;congruent;neutral;right;10.219309;0.8258;True
+neutral_distractor;right;incongruent;neutral;left;11.213661;0.541926;False
+neutral_distractor;left;congruent;neutral;;12.213451;;
+neutral_distractor;left;incongruent;neutral;right;13.213297;0.66454;False
+neutral_distractor;left;congruent;neutral;left;14.224913;0.497675;True
+neutral_distractor;left;incongruent;neutral;left;15.23506;0.821441;True
+neutral_distractor;left;congruent;neutral;left;16.246996;0.675748;True
+neutral_distractor;left;incongruent;neutral;left;17.258015;0.69814;True
+neutral_distractor;right;incongruent;neutral;left;18.268876;0.620723;False
+neutral_distractor;left;congruent;neutral;left;19.280565;0.542055;True
+neutral_distractor;right;incongruent;neutral;left;20.291871;0.530586;False
+neutral_distractor;right;congruent;neutral;right;21.30218;0.587672;True
+neutral_distractor;right;congruent;neutral;right;22.31397;0.609376;True
+neutral_distractor;right;congruent;neutral;right;23.313844;0.63095;True
+neutral_distractor;left;incongruent;neutral;left;24.313812;0.698112;True
+neutral_distractor;right;incongruent;neutral;;25.324464;;
